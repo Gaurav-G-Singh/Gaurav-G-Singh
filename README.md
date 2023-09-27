@@ -1,3 +1,4 @@
+![logo](https://github.com/Gaurav-G-Singh/Gaurav-G-Singh/blob/main/DATA%20SCIEnce.jpg)
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
